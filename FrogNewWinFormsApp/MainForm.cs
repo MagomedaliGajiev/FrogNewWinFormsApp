@@ -1,5 +1,3 @@
-using System.Windows.Forms;
-
 namespace FrogNewWinFormsApp
 {
     public partial class MainForm : Form
@@ -79,7 +77,7 @@ namespace FrogNewWinFormsApp
                 sortedBoxes[7].Tag.ToString() == "Left" &&
                 sortedBoxes[8].Tag.ToString() == "Left")
             {
-                string optimalityMessage = _movesCount == minMoves
+                var optimalityMessage = _movesCount == minMoves
                     ? "Это оптимальное решение!"
                     : $"Можно решить за {minMoves} ходов (вы сделали {_movesCount})";
 
