@@ -31,7 +31,7 @@
 - [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 ## Как запустить
-1. Скачайте последнюю версию из [Releases](https://github.com/ваш-юзернейм/FrogNewWinFormsApp/releases)
+1. Скачайте последнюю версию из [Releases](https://github.com/MagomedaliGajiev/FrogNewWinFormsApp/releases)
 2. Распакуйте архив
 3. Запустите `FrogGame.exe`
 
