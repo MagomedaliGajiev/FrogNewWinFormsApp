@@ -1,6 +1,6 @@
 # Frog Puzzle Game - Windows Forms Application
 
-![Game Screenshot](screenshot.png) <!-- (добавьте скриншот позже) -->
+![Game Screenshot](https://github.com/MagomedaliGajiev/FrogNewWinFormsApp/blob/master/FrogNewWinFormsApp/Resources/Frogs.png)
 
 Игра-головоломка "Лягушки" - классическая задача, где нужно поменять местами две группы лягушек за минимальное количество ходов.
 
