@@ -37,8 +37,7 @@
 
 **Или соберите из исходников:**
 ```bash
-git clone
-https://github.com/MagomedaliGajiev/FrogNewWinFormsApp.git
+git clone https://github.com/MagomedaliGajiev/FrogNewWinFormsApp.git
 cd FrogNewWinFormsApp
 dotnet build
 dotnet run
